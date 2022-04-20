@@ -4,4 +4,3 @@ idna==3.3
 pyTelegramBotAPI==4.4.0
 requests==2.27.1
 urllib3==1.26.8
-validate-email==1.3
